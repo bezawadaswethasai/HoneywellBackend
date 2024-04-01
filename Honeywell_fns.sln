@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Honeywell_POC", "SampleRegistration\Honeywell_POC.csproj", "{D8454AC3-9CB3-4219-8472-CD46FDDD0F62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegistrationTest", "RegistrationTest\RegistrationTest.csproj", "{79411027-50FF-4109-A1EB-0D4148044DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8454AC3-9CB3-4219-8472-CD46FDDD0F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8454AC3-9CB3-4219-8472-CD46FDDD0F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8454AC3-9CB3-4219-8472-CD46FDDD0F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8454AC3-9CB3-4219-8472-CD46FDDD0F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79411027-50FF-4109-A1EB-0D4148044DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79411027-50FF-4109-A1EB-0D4148044DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79411027-50FF-4109-A1EB-0D4148044DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79411027-50FF-4109-A1EB-0D4148044DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DC1132F-8817-4266-A16E-B9B07177714C}
+	EndGlobalSection
+EndGlobal
